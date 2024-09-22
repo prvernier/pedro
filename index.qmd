@@ -5,14 +5,10 @@ format: dashboard
 
 #  {.sidebar}
 
-**Github**
+**Little Rancheria**
 
-- landing page
-- coding
-- disturbance mapping
-
-**Bookmarks**
-
+- [Workplan](https://docs.google.com/document/d/1p0pAv9950JJwcaKug6WJn6BYHQrtLv95NQadZrdo8iE/edit){target="_blank"}
+- [Issue](https://docs.google.com/presentation/d/1i_Xo1J7MuGQ57y_FMdLXhHAxc8It-GN3tXIRacKIJCk/edit){target="_blank"}
 
 # Planning
 
