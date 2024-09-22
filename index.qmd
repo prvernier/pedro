@@ -93,3 +93,9 @@ Disturbance mapping workplan.
 ```{=html}
 <iframe width="100%" height="100%" src="https://docs.google.com/document/d/1p0pAv9950JJwcaKug6WJn6BYHQrtLv95NQadZrdo8iE/edit" frameborder="0"></iframe>
 ```
+
+### Issues
+
+```{=html}
+<iframe width="100%" height="100%" src="https://docs.google.com/presentation/d/1i_Xo1J7MuGQ57y_FMdLXhHAxc8It-GN3tXIRacKIJCk/edit" frameborder="0"></iframe>
+```
